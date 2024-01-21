@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/test1.dir/src/main.c.o CMakeFiles/test1.dir/src/person.c.o -o test1 

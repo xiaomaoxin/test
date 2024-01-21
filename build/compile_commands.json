@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ipc17/c/test/build",
+  "command": "/usr/bin/gcc  -I/home/ipc17/c/test/inc -g -std=gnu11 -o CMakeFiles/test1.dir/src/main.c.o -c /home/ipc17/c/test/src/main.c",
+  "file": "/home/ipc17/c/test/src/main.c"
+},
+{
+  "directory": "/home/ipc17/c/test/build",
+  "command": "/usr/bin/gcc  -I/home/ipc17/c/test/inc -g -std=gnu11 -o CMakeFiles/test1.dir/src/person.c.o -c /home/ipc17/c/test/src/person.c",
+  "file": "/home/ipc17/c/test/src/person.c"
+}
+]
